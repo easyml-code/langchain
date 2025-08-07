@@ -1,0 +1,8 @@
+langchain
+langchain-community 
+huggingface_hub
+python-dotenv
+langchain-huggingface
+langchain-groq
+grandalf
+pydantic
