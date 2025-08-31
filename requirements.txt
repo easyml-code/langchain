@@ -6,3 +6,4 @@ langchain-huggingface
 langchain-groq
 grandalf
 pydantic
+bs4
